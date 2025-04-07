@@ -1,1 +1,1 @@
-nginx:1.24.0 registry.cn-hangzhou.aliyuncs.com/gkzx2024/nginx:1.24.0
+langgenius/dify-api:release-1.1.3-fix1 registry.cn-hangzhou.aliyuncs.com/csgf/dify-api:release-1.1.3-fix1
